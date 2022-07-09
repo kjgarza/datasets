@@ -1,0 +1,166 @@
+"client.name.keyword","contributors.contributorType",Count
+"Genebank Information System of the IPK Gatersleben",RegistrationAuthority,208786
+"University of New South Wales",HostingInstitution,24037
+"University of New South Wales",Other,238
+"University of New South Wales",ProjectLeader,232
+"University of New South Wales",Sponsor,62
+reposiTUm,Supervisor,10511
+reposiTUm,RelatedPerson,3520
+"Imperial College London",DataManager,8650
+"Imperial College London",HostingInstitution,8650
+"Imperial College London",Researcher,8650
+Libra,Other,2200
+"NERC Environmental Data Service",ContactPerson,1241
+"NERC Environmental Data Service",HostingInstitution,1239
+"NERC Environmental Data Service",RightsHolder,612
+"NERC Environmental Data Service",Distributor,174
+"NERC Environmental Data Service",DataManager,109
+"NERC Environmental Data Service",Researcher,108
+"NERC Environmental Data Service",DataCollector,7
+"NERC Environmental Data Service",ProjectManager,7
+"NERC Environmental Data Service",ProjectMember,5
+"NERC Environmental Data Service",RelatedPerson,5
+"NERC Environmental Data Service",ProjectLeader,4
+"NERC Environmental Data Service",DataCurator,2
+"NERC Environmental Data Service",Other,2
+"NERC Environmental Data Service",Supervisor,1
+"Earth System Grid Federation",ContactPerson,770
+"Earth System Grid Federation",Researcher,272
+"Earth System Grid Federation",DataCollector,145
+"Earth System Grid Federation",DataManager,128
+"Earth System Grid Federation",ResearchGroup,125
+"SAEON Data Centre",DataCurator,534
+"SAEON Data Centre",ContactPerson,515
+"SAEON Data Centre",Distributor,358
+"SAEON Data Centre",HostingInstitution,129
+"SAEON Data Centre",RightsHolder,95
+"SAEON Data Centre",ProjectLeader,5
+"SAEON Data Centre",ProjectMember,2
+"SAEON Data Centre",DataCollector,1
+"SAEON Data Centre",Producer,1
+"SAEON Data Centre",ProjectManager,1
+"SAEON Data Centre",Researcher,1
+"SAEON Data Centre",Sponsor,1
+"California Digital Library",Producer,222
+"California Digital Library",ProjectLeader,130
+"California Digital Library",ProjectManager,83
+"California Digital Library",DataCurator,79
+"California Digital Library",ProjectMember,63
+"California Digital Library",Sponsor,4
+"Istituto Nazionale di Geofisica e Vulcanologia (INGV)",Editor,207
+"Istituto Nazionale di Geofisica e Vulcanologia (INGV)",RightsHolder,207
+"Tampa Repository",Editor,81
+"Tampa Repository",Other,40
+"Tampa Repository",Sponsor,31
+"Tampa Repository",Producer,20
+"Tampa Repository",Distributor,8
+"Tampa Repository",HostingInstitution,2
+Akofena,Researcher,103
+Akofena,Other,4
+Akofena,Editor,1
+"Emily Carr University of Art and Design Repository",HostingInstitution,103
+"Emily Carr University of Art and Design Repository",Supervisor,95
+"Emily Carr University of Art and Design Repository",RegistrationAuthority,1
+TalTech,Supervisor,98
+SupraBank,DataManager,93
+Cefas,Researcher,62
+Cefas,ProjectLeader,26
+Cefas,DataManager,19
+Cefas,ResearchGroup,19
+Cefas,DataCurator,2
+Cefas,ProjectManager,2
+Cefas,Supervisor,2
+Cefas,Other,1
+Cefas,Producer,1
+Cefas,ProjectMember,1
+GFZpublic,Distributor,72
+GFZpublic,Other,6
+GFZpublic,Editor,4
+GFZpublic,RelatedPerson,2
+GFZpublic,ProjectMember,1
+"The Catalogue of Life",Other,67
+"The Catalogue of Life",Editor,8
+"ISIMIP Repository",DataCurator,57
+"ISIMIP Repository",DataManager,57
+"ISIMIP Repository",HostingInstitution,57
+"ISIMIP Repository",ProjectLeader,57
+"ISIMIP Repository",ProjectManager,57
+"ISIMIP Repository",ProjectMember,57
+"ISIMIP Repository",ContactPerson,53
+"ISIMIP Repository",DataCollector,3
+"ISIMIP Repository",Researcher,3
+"University of Dundee",Researcher,44
+"University of Dundee",Supervisor,9
+"University of Dundee",DataCollector,2
+"University of Dundee",HostingInstitution,1
+"University of Dundee",Other,1
+"University of Dundee",ProjectMember,1
+"University of Dundee",ResearchGroup,1
+"Scuola Normale Superiore di Pisa",ProjectLeader,53
+"Scuola Normale Superiore di Pisa",DataManager,44
+"Scuola Normale Superiore di Pisa",ProjectManager,13
+"Scuola Normale Superiore di Pisa",ProjectMember,5
+"Scuola Normale Superiore di Pisa",DataCollector,4
+"Scuola Normale Superiore di Pisa",Other,3
+"Scuola Normale Superiore di Pisa",Researcher,1
+"Scuola Normale Superiore di Pisa",Supervisor,1
+"Akademia Pomorska w Słupsku",Editor,39
+"Akademia Pomorska w Słupsku",Distributor,10
+"Influenza Research Database",Researcher,46
+"Influenza Research Database",ContactPerson,39
+"Influenza Research Database",HostingInstitution,26
+"Influenza Research Database",ResearchGroup,4
+"Influenza Research Database",RelatedPerson,1
+"Medienarchiv ZHdK",Researcher,43
+"Medienarchiv ZHdK",ProjectLeader,3
+"University of Southampton",Editor,32
+"University of Southampton",Supervisor,10
+"University of Southampton",Other,2
+"University of Southampton",ProjectLeader,2
+"University of Southampton",ProjectMember,1
+"Bibliothek des Wissenschaftsparks Albert Einstein",Distributor,27
+"Bibliothek des Wissenschaftsparks Albert Einstein",Other,16
+"Rijksuniversiteit Groningen",ContactPerson,32
+Repository,Editor,21
+Repository,Other,10
+Repository,Researcher,9
+Repository,HostingInstitution,8
+Repository,RelatedPerson,1
+"Caltech Library",ContactPerson,26
+"Caltech Library",ResearchGroup,26
+"Caltech Library",DataCurator,25
+"Caltech Library",HostingInstitution,25
+"Caltech Library",Producer,4
+"Caltech Library",RelatedPerson,4
+"Caltech Library",DataCollector,3
+"Caltech Library",ProjectLeader,3
+"Caltech Library",Researcher,3
+"Caltech Library",DataManager,2
+"Caltech Library",ProjectMember,2
+"National Geoinformation Center",ContactPerson,25
+"National Geoinformation Center",Producer,1
+"European Radiation Dosimetry Group e.V. (EURADOS)",ContactPerson,25
+"British Library Labs",DataCurator,22
+"British Library Labs",DataManager,1
+"Open Science Framework",HostingInstitution,21
+"Open Science Framework",ProjectMember,21
+"Virus Pathogen Resource",HostingInstitution,21
+"Virus Pathogen Resource",Researcher,21
+"Virus Pathogen Resource",ContactPerson,19
+"__other__",Other,112
+"__other__",ContactPerson,110
+"__other__",Editor,102
+"__other__",ProjectLeader,79
+"__other__",DataCollector,55
+"__other__",Researcher,53
+"__other__",DataManager,46
+"__other__",HostingInstitution,42
+"__other__",ProjectMember,41
+"__other__",Producer,36
+"__other__",Supervisor,35
+"__other__",DataCurator,34
+"__other__",ResearchGroup,23
+"__other__",Distributor,16
+"__other__",ProjectManager,15
+"__other__",RelatedPerson,11
+"__other__","__other__",7
