@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Garza"
+  given-names: "Kristian"
+  orcid: "https://orcid.org/0000-0003-3484-6875"
+title: "datasets"
+version: 0.0.1
+date-released: 2022-07-09
+url: "https://github.com/kjgarza/datasets"
