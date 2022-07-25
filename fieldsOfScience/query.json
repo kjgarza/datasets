@@ -1,6 +1,6 @@
 {
   "method": "post",
   "data": {
-    "query": "query {datasets(query: \"subjects.subjectScheme:\"Fields of Science and Technology (FOS)\"\") {totalCount subjects: fieldsOfScience{ title count }}}"
+    "query": "query {datasets {totalCount subjects: fieldsOfScience{ title count }}}"
   }
 }
