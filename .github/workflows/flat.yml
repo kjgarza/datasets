@@ -6,8 +6,6 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      # - ./fieldsOfScience/Makefile.js
-      - ./fieldsOfScience/query.json
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -24,4 +22,7 @@ jobs:
           http_url: https://api.datacite.org/graphql
           downloaded_filename: ./fieldsOfScience/fieldsOfScience.json
           axios_config: ./fieldsOfScience/query.json
-          # postprocess: ./fieldsOfScience/Makefile.js
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: ""
