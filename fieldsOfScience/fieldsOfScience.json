@@ -1,1 +1,11 @@
-{"data":{"datasets":{"totalCount":12428254,"subjects":[{"title":"Biological sciences","count":376766},{"title":"Earth and related environmental sciences","count":132064},{"title":"Health sciences","count":97655},{"title":"Clinical medicine","count":86275},{"title":"Computer and information sciences","count":75664},{"title":"Chemical sciences","count":75052},{"title":"Sociology","count":46394},{"title":"Mathematics","count":38397},{"title":"Physical sciences","count":21976},{"title":"Psychology","count":21791}]}}}
+title,count
+Biological sciences,376766
+Earth and related environmental sciences,132064
+Health sciences,97655
+Clinical medicine,86275
+Computer and information sciences,75664
+Chemical sciences,75052
+Sociology,46395
+Mathematics,38397
+Physical sciences,21976
+Psychology,21791
