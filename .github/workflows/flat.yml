@@ -21,8 +21,4 @@ jobs:
         with:
           http_url: https://api.datacite.org/graphql
           downloaded_filename: ./fieldsOfScience/fieldsOfScience.json
-          axios_config: ./fieldsOfScience/query.json
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: ""
+          axios_config: query.json
