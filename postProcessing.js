@@ -9,4 +9,4 @@ const data = await readJSON(filename)
 // Careful! any uncaught errors and the workflow will fail, committing nothing.
 const newfile = `${filename}`
 // await writeJSON(newfile, data.path.to.something)
-await writeCSV(newfile, data.datasets.subjects)
+await writeCSV(newfile, data.data.datasets.subjects)
