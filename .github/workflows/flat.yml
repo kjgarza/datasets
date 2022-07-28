@@ -6,7 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./postProcessing.js
+      - ./fieldsOfScience/postProcessing.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -22,5 +22,5 @@ jobs:
         with:
           http_url: https://api.datacite.org/graphql
           downloaded_filename: ./fieldsOfScience/fieldsOfScience.csv
-          axios_config: query.json
-          postprocess: ./postProcessing.js
+          axios_config: ./fieldsOfScience/query.json
+          postprocess: ./fieldsOfScience/postProcessing.js
