@@ -11,4 +11,4 @@ const newfile = `${filename}`
 // await writeJSON(newfile, data.path.to.something)
 var r = data.data.datasets.subjects.map(obj => ({ ...obj, date: new Date().toLocaleDateString() }))
 
-await writeCSV(newfile, r)
+await writeJSON(newfile, r)
